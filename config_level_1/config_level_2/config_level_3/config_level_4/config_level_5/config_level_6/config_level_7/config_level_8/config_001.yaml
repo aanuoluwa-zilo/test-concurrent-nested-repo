@@ -1,0 +1,9 @@
+# Config at depth 8, file 1
+app:
+  name: NestedApp8_1
+  depth: 8
+  file_id: 1
+
+settings:
+  nested_level: 8
+  config_id: 1

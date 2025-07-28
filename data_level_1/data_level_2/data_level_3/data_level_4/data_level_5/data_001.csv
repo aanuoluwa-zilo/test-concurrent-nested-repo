@@ -1,0 +1,3 @@
+depth,file_id,value,description
+5,1,value_5_1,nested data at depth 5 file 1
+5,2,value_5_2,nested data at depth 5 file 2
